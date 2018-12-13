@@ -1,0 +1,32 @@
+#container {
+  position: relative;
+  width: 1000px;
+  margin: 0px auto;
+}
+
+svg {
+  width: 500px;
+  height: 500px;
+}
+
+#left {
+  margin-right: 500px;
+}
+
+#right {
+  position: absolute;
+  border: 1px solid #ddd;
+  right: 0px;
+  top: 0px;
+  width: 500px;
+  height: 500px;
+}
+
+#left > div {
+  margin-bottom: 5px;
+}
+
+#left label {
+  width: 200px;
+  display: inline-block;
+}
