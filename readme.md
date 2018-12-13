@@ -13,4 +13,6 @@ Moving the mouse over the heatmap changes the regression line.
 Clicking on the heatmap displays a regression line with the corresponding
 coefficients permanently.
 
+Try it out [here](https://alexanderfillbrunn.github.io/linreg-visualization/)!
+
 ![Screenshot](/screenshot.png?raw=true)
